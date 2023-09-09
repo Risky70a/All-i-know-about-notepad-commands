@@ -1,0 +1,5 @@
+Warning: vbExclamation
+Info: vbInformation
+Error/Critical: vbCritical
+Question: vbQuestion
+Application icon in titlebox: vbSystemModal
