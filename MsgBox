@@ -2,4 +2,4 @@ MsgBox "1", vbExclamation, "2"
 
 #dont include this text
 1: is the text you wanna it to be
-2: is the title of your Msgbox
+2: is the title of your Msgbox.
