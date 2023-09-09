@@ -1,1 +1,24 @@
+x=msgbox("box text",0,"box title")
 
+
+#Do not include this text into the script
+you can edit "boxtext" "0" and "box title"
+The number add different buttons the buttons does nothing in this script
+you can stack the messages like this
+______________________________
+
+x=msgbox("box text",0,"box title")
+
+x=msgbox("box text",0,"box title")
+____________________________
+there is this spacing in the middel of the texts
+you can click the "X" to stop the script
+you can not loop the process as far as i know
+
+0: adds "OK" button
+1: adds "OK" And "CANCEL" button
+2: adds "ABORT" "RETRY" and "IGNORE
+3: adds "YES" "NO" and "CANCEL"
+4: adds "YES" and "NO"
+5: adds "RETRY" and "CANCEL"
+END
