@@ -1,0 +1,27 @@
+Dim result
+result = MsgBox("1","2", "3")
+
+If result = vbYes Then
+    MsgBox "Yes"
+Else
+    MsgBox "No"
+End If
+
+#dont include this
+in row 2 is where you can edit
+the text in the answer box
+1: is the box text
+2: is the button type make sure you use "4"
+3: is the box title
+
+in row 5 you can edit the response
+replace the "yes" with your text remember
+you need to keep the quotation mark
+in row 7 is the same just if you press no
+
+in row 4 you can edit what you want your respomse 5
+should be for example: vbabort so if i have the button number "2"
+it will only say "yes" if i press abort but if i press any other button it will say "no"
+
+And BTW in msgbox you can also do this (Msgbox("text","2","title")
+in row 5 and 7
