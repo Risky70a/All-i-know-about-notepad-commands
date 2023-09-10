@@ -24,4 +24,4 @@ should be for example: vbabort so if i have the button number "2"
 it will only say "yes" if i press abort but if i press any other button it will say "no"
 
 And BTW in msgbox you can also do this (Msgbox("text","2","title")
-in row 5 and 7
+in row 5 and 7.
