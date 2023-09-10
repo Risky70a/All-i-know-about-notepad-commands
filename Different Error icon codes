@@ -3,3 +3,5 @@ Info: vbInformation
 Error/Critical: vbCritical
 Question: vbQuestion
 Application icon in titlebox: vbSystemModal
+
+#You can´t stack them
