@@ -1,0 +1,27 @@
+Dim answer
+answer = InputBox("Press YES or NO")
+If answer = "YES" Then
+    MsgBox "1","1","1"
+ElseIf answer = "NO" Then
+    MsgBox "2","2","2"
+Else
+    MsgBox "Invalid input, please enter YES or NO"
+End If
+________________________________________________________
+
+#dont include this
+in row 4 you will see msgbox "1","1","1"
+the first 1 you see is the box text
+the third 1 you see is the box title
+and the second 1 you see is the Button type
+in the 6 row is the same thing
+
+in row 2 in the "parenthesis" 
+is the text of your answer box 
+
+in row 3 is the quotation mark
+is there where you can edit the answers
+and is the same in row 5
+
+in row 8 in the quotation mark
+you can edit the respones if the answers where wrong
